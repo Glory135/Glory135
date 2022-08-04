@@ -4,6 +4,8 @@
 - I love coding and watching movies
 - i mainly code with Javascript
 
+<img src="https://komarev.com/ghpvc/?username=Glory135&style=flat-square&color=blue" alt=""/>
+
 # Languages and tools :hammer_and_wrench:
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' als='html' width='40px' height='40px'  />
