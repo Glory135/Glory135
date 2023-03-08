@@ -16,6 +16,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' als='express' width='40px' height='40px'  />
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' als='react' width='40px' height='40px'  />
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' als='node' width='40px' height='40px'  />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg' als='nest' width='40px' height='40px'  />
   <img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg' als='jquery' width='40px' height='40px'  />
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' als='python' width='40px' height='40px'  />
    <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' als='git' width='40px' height='40px'  />
