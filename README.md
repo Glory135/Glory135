@@ -1,6 +1,6 @@
 # About ME :man_technologist:
 - My name is Adeyemi Glory, but you can call me Glory
-- I'm a fullstack web developer
+- I'm a software developer
 - I love coding
 - i mainly code with Javascript / Typescript
 
