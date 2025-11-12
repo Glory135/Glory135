@@ -1,47 +1,65 @@
-# About ME :man_technologist:
-- My name is Adeyemi Glory, but you can call me Glory
-- I'm a software developer
-- I love coding
-- i mainly code with Javascript / Typescript
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adeyemi Glory</span></h1>
 
-<img src="https://komarev.com/ghpvc/?username=Glory135&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  🚀 Frontend Developer • 🧠 Creative Problem Solver • 🛡️ Data and Security Enthusiast
+</p>
 
-# Languages and tools :hammer_and_wrench:
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='js' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' alt='sass' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongoDB' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='node' width='40px' height='40px'  />
-   <img src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg' alt='nest' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg' alt='jquery' width='40px' height='40px'  />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' width='40px' height='40px'  />
-   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git' width='40px' height='40px'  />
-  </div
-  
-# :fire: My Stats :
+---
 
-<div align='center'>
-  <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Glory135&theme=vision-friendly-dark&show_icons=true" />
-  </a>&nbsp&nbsp
-  <a href="https://git.io/streak-stats">
-    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Glory135&theme=dark&background=000000" />
-  </a>&nbsp&nbsp
-  <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory135&theme=vision-friendly-dark" />
-  </a>
-</div>
+### 👨‍💻 About Me  
+I’m a passionate **Frontend Developer** who loves building **modern, secure, and intuitive web apps**.  
+From vulnerability scanners to smart campus systems, I enjoy turning ideas into reality with **clean design** and **solid code**.
 
-<hr/>
+💡 I enjoy solving tough problems, revamping **legacy codebases**, and creating web apps that *just feel right*.  
+☕ When I’m not coding, I’m editing videos, mentoring new devs, or exploring the latest UI trends.
 
-<h4>I'm currently open to new career opportunities and project collaborations!</h4>
+---
 
-<div>
-  <span>&nbsp&nbsp&nbsp📧&nbsp&nbsp&nbsp<strong>Email me</strong> at: <strong><em><a href='mailto: adeyemiglr@gmail.com'>adeyemiglr@gmail.com/a></em></strong></span><br>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
-  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='https://www.linkedin.com/in/glory-adeyinka-89b680228/'>LinkedIn</a></em></strong></span>
-</div>
+### ⚒️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,prisma,nodejs,express,postgres,mongodb,docker,vercel" />
+</p>
+
+---
+
+### 🧩 Featured Projects  
+
+🔐 **Cybersecurity Scanner App** – built a modern frontend for scanning and visualizing vulnerabilities in real-time.  
+🚗 **QRAccess** – a smart vehicle entry & exit monitoring system for campus security operations.  
+🎓 **EKSU Digital Clearance System** – streamlined student clearance with automated verification and digital workflows.  
+👥 **Microsoft Learn Student Ambassador** – hosted events teaching Git, GitHub, and beginner-friendly coding sessions.  
+🛒 **GreekGod Ecommerce site** - built a modern fustack ecommerce site for a clothing brand
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glory135&show_icons=true&theme=tokyonight&hide_border=true" alt="Glory's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glory135&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory135&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Let’s Connect  
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/glory135/](https://www.linkedin.com/in/glory135/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://twitter.com/yourtwitter](https://x.com/AdeyemiGlory4)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:adeyemiglr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+</p>
+
+---
+
+### ✨ Quote I Live By  
+> “Build like an artist, debug like a detective, and ship like a pro.”  
+
+---
+
+⭐️ **If you like what I do, drop a star or follow — it keeps me caffeinated! ☕**
