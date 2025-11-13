@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adeyemi Glory</span></h1>
 
 <p align="center">
-  🚀 Frontend Developer • 🧠 Creative Problem Solver • 🛡️ Data and Security Enthusiast
+  🚀 Frontend Developer • Full Stack Web Developer • 🧠 Creative Problem Solver • 🛡️ Data and Security Enthusiast
 </p>
 
 ---
